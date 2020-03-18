@@ -7,6 +7,6 @@
 
 ## Infos:
 
-In dieser [Organisation](https://github.com/CoderDojo-Wurzburg) findest du sämtliche Repositories aus vergangenen und kommenden Veranstaltungen dessen Code du frei Verwenden kannst. 
+In dieser [Organisation](https://github.com/CoderDojo-Wurzburg) findest du sämtliche Repositories aus vergangenen und kommenden Veranstaltungen dessen Code du frei verwenden kannst. 
 
 Möchtest du deinen Code mit anderen Teilen? Oder hast du ein Projektvorschlag? Dann wende dich an einen Mentor und er wird dir weiterhelfen!
